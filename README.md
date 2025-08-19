@@ -8,3 +8,12 @@ ZenBand is a PWEM solver with a graphical user interface which is based on Tkint
 Five different unit cell types for square (cylinders, frames and rings) and hexagonal (regular hex and honeycomb) lattices are built in with the ability to import custom devices (an example on how to import devices is given in 'example' folder as well as the instuction manual). Option to choose diagonally anisotropic dielectric permittivity matrices is built in.
 
 A description of all variables, functions and a walk through of the GUI in ZenBand is given in [ZenBand_instruction.pdf](https://github.com/user-attachments/files/21835383/ZenBand_instruction.pdf).
+
+## Installation
+- Required libraries:
+  - tqdm
+  - tkinter/customtkinter
+  - imageio
+- To install the package, run the following code in command prompt:
+
+</pre>'''$ pip install zenband'''</pre>
