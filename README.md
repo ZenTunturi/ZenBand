@@ -16,4 +16,12 @@ A description of all variables, functions and a walk through of the GUI in ZenBa
   - imageio
 - To install the package, run the following code in command prompt:
 
-</pre>'''$ pip install zenband'''</pre>
+<pre>$ pip install zenband</pre>
+
+- To run the app, run the following code:
+ 
+```python
+import ZenBand
+
+ZenBand.run()
+``` 
